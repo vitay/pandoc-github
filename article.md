@@ -1,6 +1,5 @@
 ---
 title: Forward models in the cerebellum
-subtitle: Application to the dot task
 author: Julian Thukral, Julien Vitay and Fred Hamker
 ---
 
