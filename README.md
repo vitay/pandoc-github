@@ -27,4 +27,6 @@ To publish on Github pages, simply commit and push everything to your repo and, 
 
 Videos can be embedded with the following code (html-only, obviously not for pdf):
 
+```html
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/O7cKkOzWn3s' frameborder='0' allowfullscreen></iframe></div>
+```
